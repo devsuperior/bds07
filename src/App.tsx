@@ -1,10 +1,10 @@
 import 'assets/styles/custom.scss';
 import './App.css';
-import CepSearch from './pages/CepSearch';
+import Routes from './Routes';
 
 function App() {
   return (
-    <CepSearch />
+    <Routes />
   );
 }
 
